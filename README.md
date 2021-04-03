@@ -2,7 +2,7 @@
 
 ![D3-Calendar-Heat-Map](https://raw.githubusercontent.com/Parshantk90/D3-Calendar-Heat-Map/main/calendarHeatMap.PNG)
 
-This project is a plug and paly kind of solution to get a github style D3.js scrollable Heat map with dynamic width and height.
+This project is a plug and play kind of solution to get a github style D3.js scrollable Heat map with dynamic width and height.
 some of the cool features are-
 1.  Renders n number of months in a single row
 2.  Main Container of Heatmaps is scrollable
