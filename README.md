@@ -2,7 +2,7 @@
 This project is a plug and paly kind of solution to get a github style D3.js scrollable Heat map with dynamic width and height.
 some of the cool features are-
 1.  Renders n number of months in a single row
-2.  Main Conainer of Heatmaps is scrollable
+2.  Main Conatiner of Heatmaps is scrollable
 3.  Cell size, color, legends, week labels are easy to configure points in code and ready to use.
 4.  No License library used except D3.js.
 
