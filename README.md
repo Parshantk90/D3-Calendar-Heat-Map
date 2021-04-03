@@ -6,7 +6,7 @@ some of the cool features are-
 3.  Cell size, color, legends, week labels are easy to configure points in code and ready to use.
 4.  No License library used except D3.js.
 
-# This Project includes 4 Files.
+# This Project includes 4 Files-
 
 1. Data.json
 2. index.html
@@ -36,7 +36,7 @@ Data Format required -
   }
 ]
 
-# Configurable point in CalendarHeatMap.js file-
+# Configurable points in CalendarHeatMap.js file-
 You can set below paramaters to change heatmap look and feel
 
     // dataset grouping at different levels
